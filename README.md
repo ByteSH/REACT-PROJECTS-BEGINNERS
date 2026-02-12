@@ -3,3 +3,7 @@
 
 ### 1. BMI Calculator.
 <img width="1366" height="768" alt="BMICalculator" src="https://github.com/user-attachments/assets/ec4e33b4-6c7e-4418-af87-529cef4dcf9c" />
+
+<br/><br/>
+### 2. FAQ Component
+<img width="1366" height="768" alt="2  FAQ Component" src="https://github.com/user-attachments/assets/25306cfd-f852-44b3-983d-071cf8d8cf5f" />
